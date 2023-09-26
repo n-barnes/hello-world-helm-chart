@@ -1,0 +1,11 @@
+
+
+appName: helloworld
+
+port: 80
+
+namespace: nb-test
+
+image:
+  name: docker.digital.homeoffice.gov.uk/acp-multipage-example-app
+  tag: v1.0
